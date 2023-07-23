@@ -95,4 +95,10 @@ footer{
     #nav-links{
         gap: 1rem;
     }
+    #edu-list,#skills{
+        width:100%;
+    }
+    #projects{
+        padding: 1rem !important;
+    }
 }
